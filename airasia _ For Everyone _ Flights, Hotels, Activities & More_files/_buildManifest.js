@@ -1,0 +1,1 @@
+self.__BUILD_MANIFEST = (function(a){return {"/[lang]/[country]":[a],"/flight/[lang]/[country]":[a],"/hotels/[lang]/[country]":[a],"/snap/[lang]/[country]":[a]}}("static\u002Fchunks\u002Fcff6d364ac2410e211260432cf214b5bd8837429.348fabe6cfd756101144.js"));self.__BUILD_MANIFEST_CB && self.__BUILD_MANIFEST_CB()
